@@ -1,6 +1,6 @@
  🎯 Jogo do Número Secreto
 
-🔗 **Acesse o jogo aqui:** [[Clique para jogar](https://jogo-yago.netlify.app/)](#)
+🔗 **Acesse o jogo aqui:** [[Clique para jogar](https://jogo-yago.netlify.app/)]
 
 Um pequeno projeto feito com **HTML, CSS e JavaScript** onde o jogador precisa adivinhar o número secreto sorteado pelo sistema.
 
